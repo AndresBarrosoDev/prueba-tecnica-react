@@ -2,6 +2,8 @@
 
 Este sitio ha sido desarrollado utilizando Vite, React y Material-UI.
 
+[Vista Previa]((https://andresbarrosodev.github.io/prueba-tecnica-react/))
+
 ## Requerimientos
 
 Antes de poder ejecutar este proyecto, necesitarás tener instalado [Node.js](https://nodejs.org/) en tu equipo. 
