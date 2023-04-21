@@ -2,7 +2,7 @@
 
 Este sitio ha sido desarrollado utilizando Vite, React y Material-UI.
 
-[Vista Previa](https://andresbarrosodev.github.io/prueba-tecnica-react/)
+Puedes pre-visualizar el estado del sitio presionando [aquí](https://andresbarrosodev.github.io/prueba-tecnica-react/)
 
 ## Requerimientos
 
